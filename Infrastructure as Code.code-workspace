@@ -14,5 +14,7 @@
 			"path": "../../RemoteApp"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"powershell.cwd": "/Users/tomas/Repository/IaC/Infrastructure as Code"
+	}
 }
