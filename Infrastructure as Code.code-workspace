@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../IaC/Infrastructure as Code"
+		},
+		{
+			"name": "ALZ-Bicep",
+			"path": "."
+		},
+		{
+			"path": "../../peering"
+		},
+		{
+			"path": "../../RemoteApp"
+		}
+	],
+	"settings": {}
+}
